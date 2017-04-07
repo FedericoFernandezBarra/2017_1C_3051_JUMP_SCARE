@@ -1,0 +1,381 @@
+<roomsEditor-Map>
+  <mapSettings width="3000" height="3000" scaleX="1" scaleY="1" scaleZ="1" />
+  <rooms count="47">
+    <room name="CUARTO DEL DUEÑO" x="0" y="0" width="180" length="180" height="100" floorLevel="0">
+      <wall name="Roof" textureName="techo1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="alfombra5.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="alfombra2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="alfombra2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="alfombra2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="alfombra2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="SALA DE RECREACION" x="190" y="0" width="250" length="190" height="100" floorLevel="0">
+      <wall name="Roof" textureName="techo3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="alfombra1.jpg" autoAdjustUv="True" uTile="3" vTile="3" />
+      <wall name="East" textureName="pared2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="pared2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="pared2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="pared2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="VESTIDORES EMPLEADOS" x="0" y="280" width="250" length="180" height="100" floorLevel="0">
+      <wall name="Roof" textureName="techo3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="VESTIDORES EMPLEADAS" x="260" y="280" width="250" length="180" height="100" floorLevel="0">
+      <wall name="Roof" textureName="techo3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="PASILLO EMPLEADOS" x="0" y="190" width="1250" length="80" height="100" floorLevel="0">
+      <wall name="Roof" textureName="techo3.jpg" autoAdjustUv="True" uTile="6" vTile="1" />
+      <wall name="Floor" textureName="alfombra1.jpg" autoAdjustUv="True" uTile="7" vTile="2" />
+      <wall name="East" textureName="pared2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="pared2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="pared2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="pared2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="CUARTO CAMARAS" x="450" y="0" width="180" length="180" height="100" floorLevel="0">
+      <wall name="Roof" textureName="techo3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="alfombra1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="pared3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="pared3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="pared3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="pared3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="BAÑO EMPLEADOS" x="640" y="0" width="250" length="180" height="100" floorLevel="0">
+      <wall name="Roof" textureName="techo3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="COCINA" x="520" y="280" width="730" length="180" height="100" floorLevel="0">
+      <wall name="Roof" textureName="techo3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="piso1.jpg" autoAdjustUv="True" uTile="5" vTile="5" />
+      <wall name="East" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="BAÑO EMPLEADAS" x="900" y="0" width="250" length="180" height="100" floorLevel="0">
+      <wall name="Roof" textureName="techo3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="DEPOSITO" x="1260" y="150" width="250" length="460" height="100" floorLevel="0">
+      <wall name="Roof" textureName="techo2.jpg" autoAdjustUv="True" uTile="5" vTile="5" />
+      <wall name="Floor" textureName="piso2.jpg" autoAdjustUv="True" uTile="5" vTile="5" />
+      <wall name="East" textureName="pared3.jpg" autoAdjustUv="True" uTile="2" vTile="2" />
+      <wall name="West" textureName="pared3.jpg" autoAdjustUv="True" uTile="2" vTile="2" />
+      <wall name="North" textureName="pared3.jpg" autoAdjustUv="True" uTile="2" vTile="2" />
+      <wall name="South" textureName="pared3.jpg" autoAdjustUv="True" uTile="2" vTile="2" />
+    </room>
+    <room name="SALON DE ENTRETENIMIENTO" x="0" y="560" width="510" length="330" height="100" floorLevel="0">
+      <wall name="Roof" textureName="techo3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="madera1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="alfombra4.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="alfombra4.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="alfombra4.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="alfombra4.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="COMEDOR" x="670" y="620" width="720" length="330" height="100" floorLevel="0">
+      <wall name="Roof" textureName="piso1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="piso2.jpg" autoAdjustUv="True" uTile="5" vTile="5" />
+      <wall name="East" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="P1" x="70" y="180" width="40" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="P2" x="540" y="180" width="40" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="P3" x="740" y="180" width="40" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="PASILLO CLIENTES" x="510" y="690" width="160" length="50" height="100" floorLevel="0">
+      <wall name="Roof" textureName="techo1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="alfombra3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="madera1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="madera1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="madera1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="madera1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="SALIDA" x="560" y="740" width="50" length="160" height="100" floorLevel="0">
+      <wall name="Roof" textureName="techo1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="alfombra3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="madera1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="madera1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="madera1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="pared3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="PASILLO COCINA" x="870" y="470" width="60" length="140" height="100" floorLevel="0">
+      <wall name="Roof" textureName="techo3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="piso2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="pared3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="pared3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="pared3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="pared3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="P4" x="1000" y="180" width="40" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="P10" x="870" y="460" width="60" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="P11" x="870" y="610" width="60" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="P5" x="1250" y="190" width="10" length="80" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="BAÑO HOMBRES" x="1400" y="680" width="280" length="90" height="100" floorLevel="0">
+      <wall name="Roof" textureName="piso1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="BAÑO MUJERES" x="1400" y="840" width="280" length="90" height="100" floorLevel="0">
+      <wall name="Roof" textureName="piso1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="PASILLO BAÑOS" x="1390" y="780" width="260" length="50" height="100" floorLevel="0">
+      <wall name="Roof" textureName="techo3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="piso2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="pared3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="pared3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="pared3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="pared3.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="BAÑO 5" x="1420" y="940" width="50" length="50" height="100" floorLevel="0">
+      <wall name="Roof" textureName="piso1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="PB5" x="1430" y="930" width="30" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="BAÑO 6" x="1480" y="940" width="50" length="50" height="100" floorLevel="0">
+      <wall name="Roof" textureName="piso1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="PB1" x="1430" y="670" width="30" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="BAÑO 1" x="1420" y="620" width="50" length="50" height="100" floorLevel="0">
+      <wall name="Roof" textureName="piso1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="P6" x="1250" y="350" width="10" length="50" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="P7" x="870" y="270" width="50" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="P8" x="360" y="270" width="40" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="P9" x="100" y="270" width="40" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="BAÑO 2" x="1480" y="620" width="50" length="50" height="100" floorLevel="0">
+      <wall name="Roof" textureName="piso1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="P12" x="1490" y="770" width="50" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="BAÑO 3" x="1540" y="620" width="50" length="50" height="100" floorLevel="0">
+      <wall name="Roof" textureName="piso1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="BAÑO 4" x="1600" y="620" width="50" length="50" height="100" floorLevel="0">
+      <wall name="Roof" textureName="piso1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="baño1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="PB2" x="1490" y="670" width="30" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="BAÑO 7" x="1540" y="940" width="50" length="50" height="100" floorLevel="0">
+      <wall name="Roof" textureName="piso1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="BAÑO 8" x="1600" y="940" width="50" length="50" height="100" floorLevel="0">
+      <wall name="Roof" textureName="piso1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="pared1.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="baño2.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="PB3" x="1550" y="670" width="30" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="PB4" x="1610" y="670" width="30" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="PB6" x="1490" y="930" width="30" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="P13" x="1490" y="830" width="50" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="PB7" x="1550" y="930" width="30" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+    <room name="PB8" x="1610" y="930" width="30" length="10" height="100" floorLevel="0">
+      <wall name="Roof" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="Floor" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="East" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="West" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="North" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+      <wall name="South" textureName="color-negro.jpg" autoAdjustUv="True" uTile="1" vTile="1" />
+    </room>
+  </rooms>
+</roomsEditor-Map>
